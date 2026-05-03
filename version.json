@@ -1,4 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/echotechnology-dev/inventory-tracker-updates/releases/download/1.0.0/InventoryTracker_SBE_v1.0.0.exe"
+  "version": "1.0.1",
+  "download_url": "https://github.com/echotechnology-dev/inventory-tracker-updates/releases/download/1.0.0/InventoryTracker_SBE_Setup.exe",
+  "changelog": "Test update"
 }
